@@ -1,0 +1,6 @@
+Baccarat is a table game that is played with several decks of cards. Cards are dealt out to the player as well as the banker. The main goal is to create a hand whose total points come close to 9 without exceeding it.
+Players at the table just need to place a bet on either the Player or the Banker, or the hands ending in a Tie. The dealer than proceeds to deal two cards to each side and the winner is the side closest to the number 9. In some cases, play made advance further to a third card.
+How do you count the points in Baccarat?
+There are some basics rules in place on how to count the points, so it pays to be up to speed on these rules. Pictures cards count as zero, and if the total is over 10 then the left hand digit is dropped. For example, 18 becomes 8 since the 1 is dropped, 15 becomes 5, and so on. Hands worth both 9 and 8 are called “naturals”, with 9 beating the 8. If the player or the banker’s hand has a natural 8 or 9 and the opposing hand has a lower point value, then the natural hand wins.
+When is a third card dealt in Baccarat?
+There are only special circumstances when the third card is dealt.

@@ -1,0 +1,4 @@
+Roulette is a player-versus-house game.
+In this game you will be given whether you want to bet on a even number, odd number or 0.
+If you bet on even , odd  or 0 , then the system will randomly chose a number , if the number matches your desired input then you win otherwise you lose. Remember that when you win on an even or odd then your base bet will be multiplied by x2 and if you win on 0, your base bet will be multiplied by x24.
+Test your strategies and try to beat the house!

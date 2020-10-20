@@ -1,0 +1,4 @@
+Manual betting
+Crash is a player-versus-house game. You set a custom amount to bet per round. Bets can only be placed before the round starts. Once the bets are placed, sit back and watch your gains grow live. If it busts  you will not receive any profits whatsoever, and whatever you bet, is lost. You cannot cashout before the 1.0x multiplier. You can set auto cashout at (for example) 2, and if the graph reaches the 2.0x multiplier, you have doubled your bet.
+Auto betting 
+By clicking Auto Bet, your bets will automatically be placed at the start of each  round. In auto betting , input your base bet and choose when to cash out and you can also  set condition to multiply your base bet by any no when you  win a round(its default value is 1) All this has to be set before starting the auto bet feature.
